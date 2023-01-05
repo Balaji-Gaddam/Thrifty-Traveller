@@ -1,0 +1,16 @@
+.hero-about {
+  width: 100%;
+  height: 60vh;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.hero-about .HeroText h2 {
+  font-size: 6rem;
+  background-color: #87ceeb;
+}
+.hero-about .HeroText {
+  background-color: rgba(0, 0, 0, 0.4);
+  width: 100%;
+}
